@@ -22,7 +22,7 @@
 
 ## Code
 
-[GitHub] (https://github.com/tobyperrett/trx/)
+[GitHub](https://github.com/tobyperrett/trx)
 
 ## Bibtex
 
