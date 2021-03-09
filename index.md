@@ -5,10 +5,7 @@
 ![Image](2x3.jpg)
 
 ## Abstract
-
-Domain alignment in convolutional networks aims to learn the degree of layer-specific feature alignment beneficial to the joint learning of source and target datasets. While increasingly popular in convolutional networks, there have been no previous attempts to achieve domain alignment in recurrent networks. Similar to spatial features, both source and target domains are likely to exhibit temporal dependencies that can be jointly learnt and aligned.
-
-In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is able to learn temporal dependencies from two domains concurrently.  It performs cross-contaminated batch normalisation on both input-to-hidden and hidden-to-hidden weights, and learns the parameters for cross-contamination, for both single-layer and multi-layer LSTM architectures. We evaluate DDLSTM on frame-level action recognition using three datasets, taking a pair at a time, and report an average increase in accuracy of 3.5%. The proposed DDLSTM architecture outperforms standard, fine-tuned, and batch-normalised LSTMs.
+...
 
 ## Video
 
@@ -21,18 +18,22 @@ In this paper we introduce Dual-Domain LSTM (DDLSTM), an architecture that is ab
 
 [PDF](main.pdf)
 
-[ArXiv](https://arxiv.org/abs/1904.08634)
+[ArXiv](https://arxiv.org/abs/2101.06184)
+
+## Code
+
+[GitHub] (https://github.com/tobyperrett/trx)
 
 ## Bibtex
 
 ```markdown
-@InProceedings{perrettdamen19ddlstm,
-    author    = {Perrett, Toby and Damen, Dima},
-    title     = {DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition},
+@InProceedings{perrett21trx,
+    author    = {Perrett, Toby and Masullo, Alessandro and Burghardt, Tilo and Mirmehdi, Majid and Damen, Dima},
+    title     = {Temporal-Relational CrossTransformers for Few-Shot Action Recognition},
     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2019}
+    year      = {2021}
 }
 ```
 
 ## Acknowledgements
-This research is supported by [EPSRC LOCATE (EP/N033779/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N033779/1).
+This research is supported by EPSRC SPHERE Next Steps (EP/R005273/1). Damen is supported by EPSRC Fellowship UMPIRE~(EP/T004991/1).
