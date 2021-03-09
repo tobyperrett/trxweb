@@ -2,7 +2,7 @@
 <a href="https://tobyperrett.github.io/">Toby Perrett</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
-<img src="Assets/icon.png" width="200">
+<img src="vis10.jpg" width="200">
 
 ![Image](vis10.jpg)
 
