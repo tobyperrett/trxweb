@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="vis10.jpg" width="200">
+<img src="vis10.jpg" width="300">
 </p>
 
 ## Abstract
