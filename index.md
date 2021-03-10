@@ -1,9 +1,9 @@
-<p align="center" style="font-size:30px">
+<p align="center" style="font-size:24px">
 <a href="https://tobyperrett.github.io/">Toby Perrett</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
 <p align="center">
-<img src="vis10.jpg" width="300">
+<img src="vis10.jpg" width="400">
 </p>
 
 ## Abstract
