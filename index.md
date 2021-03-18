@@ -17,8 +17,6 @@ Our proposed Temporal-Relational CrossTransformers~(TRX) achieve state-of-the-ar
 
 ## Paper
 
-[PDF](main.pdf)
-
 [ArXiv](https://arxiv.org/abs/2101.06184)
 
 ## Code
